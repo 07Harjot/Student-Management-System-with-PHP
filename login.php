@@ -21,6 +21,6 @@
 			header("Location: student_login.php");
 		}
 	?>
-	</center>
+	</center>	
 </body>
 </html>
