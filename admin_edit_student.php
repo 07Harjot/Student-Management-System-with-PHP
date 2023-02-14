@@ -7,4 +7,5 @@
 <script type="text/javascript">
 	alert("Details edited successfully.");
 	window.location.href = "admin_dashboard.php";
+	
 </script>

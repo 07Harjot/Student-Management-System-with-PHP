@@ -81,7 +81,6 @@
 						<input type="submit" name="delete_student" value="Delete Student">
 					</td>
 				</tr>
-				
 			</table>
 		</form>
 	</div>
